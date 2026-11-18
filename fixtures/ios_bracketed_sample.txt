@@ -1,0 +1,4 @@
+[20/03/2024, 14:15:30] Messages and calls are end-to-end encrypted.
+[20/03/2024, 14:16:00] Dr. Evelyn Reed: The patient records are ready for import.
+[20/03/2024, 14:18:25] Mark Spencer: Excellent, we'll sync them with ChatHarbor.
+

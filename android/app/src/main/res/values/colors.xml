@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#10b981</color>
+    <color name="primary_dark">#059669</color>
+    <color name="accent">#3b82f6</color>
+    <color name="whatsapp_green">#25d366</color>
+    <color name="bg_main">#f8fafc</color>
+    <color name="card_bg">#ffffff</color>
+    <color name="text_main">#0f172a</color>
+    <color name="text_muted">#64748b</color>
+    <color name="border_color">#e2e8f0</color>
+</resources>
+

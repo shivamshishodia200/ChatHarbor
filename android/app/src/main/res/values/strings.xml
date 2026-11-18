@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatHarbor</string>
+    <string name="import_to_chatharbor">Import to ChatHarbor</string>
+    <string name="import_whatsapp_chat">Import WhatsApp Chat</string>
+    <string name="confirm_import">Confirm Import</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="sign_in">Sign In</string>
+    <string name="select_contact">Select Destination Contact</string>
+    <string name="ambiguous_warning">⚠️ Date format is ambiguous. Please select Day or Month first.</string>
+</resources>
